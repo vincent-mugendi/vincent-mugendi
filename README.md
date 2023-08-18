@@ -8,5 +8,5 @@
 - 📫 How to reach me ...
 - ✉️ Email: vincentmugendi@consultant.com
 - 📞 Mobile: +254769048760
-- 🌐 website: https://www.nerdsnotepad.blogspot.com
+- 🌐 website: www.nerdsnotepad.blogspot.com
 - 🔗 Linkedin: https://www.linkedin.com/in/vincent-mugendi/
