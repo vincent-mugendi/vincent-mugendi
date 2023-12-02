@@ -9,4 +9,4 @@
 - ✉️ Email: vincentmugendi@consultant.com
 - 📞 Mobile: +254769048760
 - 🌐 website: http://vincentmugendi.tech
-- 🔗 Linkedin: https://www.linkedin.com/in/vincent-mugendi/
+- 🔗 Linkedin: https://www.linkedin.com/in/vincentmugendi/
