@@ -8,5 +8,5 @@
 - 📫 How to reach me ...
 - ✉️ Email: vincentmugendi@consultant.com
 - 📞 Mobile: +254769048760
-- 🌐 website: www.vincentmugendi.tech
+- 🌐 website: http://vincentmugendi.tech
 - 🔗 Linkedin: https://www.linkedin.com/in/vincent-mugendi/
