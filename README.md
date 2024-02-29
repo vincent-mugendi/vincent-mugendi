@@ -6,7 +6,7 @@
 - 🌱 I'm Constantly Evolving, Striving for Excellence and 🔍 Exploring the Boundaries of Possibility, One Commit at a Time
 - 
 - 📫 How to reach me ...
-- ✉️ Email: vincentmugendi@consultant.com
+- ✉️ Email: vincentmugendi17@gmail.com
 - 📞 Mobile: +254769048760
 - 🌐 website: http://vincentmugendi.tech
 - 🔗 Linkedin: https://www.linkedin.com/in/vincentmugendi/
