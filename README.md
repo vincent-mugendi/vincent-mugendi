@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincent-mugendi
-- 🌱 I’m currently a Full Stack Software Engineering Student @alx-africa
+- 🌱 I’m a Full Stack Software Engineer, (specializing in backend engineering @alx-africa)
 - 🌟 I'm very passionate about Clean Design and Efficient Algorithms
 - 👀 I’m interested in Building a Future Where Technology Enhances Lives
 - 💞️ I'm Open to Collaborate and Connect with Tech Enthusiasts Worldwide
