@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @vincent-mugendi
-- 🌱 I’m a Full Stack Software Engineer, (specializing in backend engineering @alx-africa)
+- 👋 Hi, I’m @vincent-mugendi,
+- 🌱 a Full Stack Software Engineer, (specializing in backend engineering @alx-africa)
 - 🌟 I'm very passionate about Clean Design and Efficient Algorithms
-- 👀 I’m interested in Building a Future Where Technology Enhances Lives
-- 💞️ I'm Open to Collaborate and Connect with Tech Enthusiasts Worldwide
-- 🌱 I'm Constantly Evolving, Striving for Excellence and 🔍 Exploring the Boundaries of Possibility, One Commit at a Time
+- 👀 and i'm very interested in Building a Future Where Technology Enhances Lives
+- 💞️ I'm always Open to Collaborate and Connect with Tech Enthusiasts Worldwide,
+- 🌱 and I'm Constantly Evolving, Striving for Excellence and 🔍 Exploring the Boundaries of Possibility, One Commit at a Time
 - 
 - 📫 How to reach me ...
 - ✉️ Email: vincentmugendi17@gmail.com
