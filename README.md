@@ -4,11 +4,11 @@ I'm a **Software Engineer** and **UX Designer** passionate about crafting intuit
 
 ## 🌟 What Makes Me Unique
 - **Cross-Disciplinary Expertise:** My journey bridges **design** and **engineering**, giving me a knack for creating solutions that not only work seamlessly but also feel great to use.
-- **Goal-Oriented:** I'm on a mission to secure a software engineering role in a **FANG company**, leveraging my growing skillset and relentless drive for excellence.
+- **Goal-Oriented:** I'm on a mission to help create the best user experiences, leveraging my growing skillset and relentless drive for excellence.
 - **Always Learning:** Having recently completed the **Google UX Design Professional Certificate**, I’m constantly pushing myself to stay at the cutting edge of the industry.
 
 ## 💻 Skills at a Glance
-- **Languages & Tools:** Python, JavaScript, HTML, CSS, React, Git/GitHub  
+- **Languages & Tools:** C, Python, JavaScript, HTML, CSS, React, Git/GitHub  
 - **UX Design:** Wireframing, Prototyping, User Research, Usability Testing  
 - **Core Concepts:** Data Structures, Algorithms, Problem-Solving, Responsive Design  
 - **Soft Skills:** Leadership, Adaptability, and Clear Communication  
