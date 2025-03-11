@@ -21,7 +21,7 @@ I'm a **Software Engineer** and **UX Designer** passionate about crafting intuit
 To join a team where I can collaborate, grow, and contribute to impactful projects that shape the future of technology and user experiences. Long-term, I aim to launch my own innovative startup.
 
 ## 🌐 Let's Connect
-- **Portfolio:** [Coming Soon: vincentmugendi.com](#)  
+- **Portfolio:** [vincentmugendi.com](#) 
 - **LinkedIn:** [linkedin.com/in/vincentmugendi](#)  
 - **Email:**  vincentmugendi17@gmail.com
 
