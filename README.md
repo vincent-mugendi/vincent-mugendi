@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Design.+Code.+Impact." alt="Typing SVG" />
 </p>
 
----
 
 ## About Me
 
