@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Product Designer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Code.+Design.+Impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Design.+Code.+Impact." alt="Typing SVG" />
 </p>
 
 ---
@@ -56,11 +56,11 @@ To join a team where I can collaborate, grow, and contribute to impactful projec
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincentmugendi&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vincent-mugendi&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vincentmugendi&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=vincent-mugendi&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
