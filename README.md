@@ -26,7 +26,7 @@ Being a **Google certified UX Designer** and having a background in **Software E
 ## Skills at a Glance
 
 - **Languages & Tools**:  
-  `C`, `Python`, `JavaScript`, `HTML`, `CSS`, `React`, `Node.js`, `Git/GitHub`, `MongoDB`, `PostgreSQL`, `MySQL`, `Docker`
+  `C`, `Python`, `JavaScript`, `Typescript`, `HTML`, `CSS`, `React`, `Node.js`, `Git/GitHub`, `MongoDB`, `PostgreSQL`, `MySQL`, `Docker`
 
 - **UX Design**:  
   Wireframing, Prototyping, User Research, Usability Testing
