@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm <b>Vincent Mugendi</b></h1>
-<h3 align="center">Software Engineer | Product Designer </h3>
+<h3 align="center">Product-Minded Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Design.+Code.+Impact." alt="Typing SVG" />
