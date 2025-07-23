@@ -2,7 +2,7 @@
 <h3 align="center">Product-Minded Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=435&lines=Design.+Code.+Impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=green&center=true&width=435&lines=Design.+Code.+Impact." alt="Typing SVG" />
 </p>
 
 
